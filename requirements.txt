@@ -1,0 +1,20 @@
+dill
+flask-cors
+from-root
+pandas
+pydub
+PyYAML
+torchaudio
+torch
+tqdm
+scikit-learn
+numpy
+sox
+flask
+soundfile
+PySoundFile
+fastapi             
+uvicorn             
+Jinja2             
+python-multipart    
+-e .
